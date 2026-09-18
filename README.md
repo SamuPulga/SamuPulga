@@ -6,10 +6,10 @@ Estudiante de Ingeniería de Sistemas en la Universidad EAFIT (Colombia).
 
 ###  En lo que estoy trabajando
 
-**C.E.S.A.R** — un asistente de IA personal corriendo nativamente en una laptop headless con Ubuntu Server. Activación por voz ("hey jarvis"), razonamiento vía Gemini con function calling, memoria persistente en SQLite, y un dashboard web con estética holográfica.
+C.E.S.A.R  — un asistente de IA personal corriendo nativamente en una laptop headless con Ubuntu Server. Activación por voz ("hey jarvis"), razonamiento vía Gemini con function calling, memoria persistente en SQLite, y un dashboard web con estética holográfica.
 `Python` · `SQLite` · `Gemini API` · `Whisper` · `Piper TTS` · `systemd`
 
-** Benchmark HPL** — pruebas de rendimiento de alto desempeño (High-Performance Linpack) sobre hardware reutilizado, optimizando bibliotecas BLAS y automatizando la compilación con Ansible.
+ Benchmark HPL — pruebas de rendimiento de alto desempeño (High-Performance Linpack) sobre hardware reutilizado, optimizando bibliotecas BLAS y automatizando la compilación con Ansible.
 `MPI` · `BLIS/OpenBLAS` · `Ansible` · `C/Fortran`
 
 ---
